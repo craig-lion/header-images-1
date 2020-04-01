@@ -1,6 +1,6 @@
-# Project Name
+# Header Images
 
-This component displays header images.
+This component displays header images for the current house item.
 
 ## Related Projects
 
